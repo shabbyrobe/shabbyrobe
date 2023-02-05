@@ -1,7 +1,7 @@
 ### It looks like you're trying to look at my Github profile
 
 I'm moving to [Source Hut](https://git.sr.ht/~shabbyrobe), but it'll take me a
-while. Most of it's probably still here.
+while. Nearly everything interesting's there now.
 
 ```
                                     -;;;·                                              
