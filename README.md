@@ -1,4 +1,4 @@
-### It looks like you're trying to look at my Github profile
+### 📎 It looks like you're trying to look at my Github profile
 
 I'm moving to [Source Hut](https://git.sr.ht/~shabbyrobe), but it'll take me a
 while. Nearly everything interesting's there now.
